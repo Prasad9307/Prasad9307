@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prasad Pawar</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+<img align="Center" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasad9307&label=Profile%20views&color=0e75b6&style=flat" alt="prasad9307" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasad9307" alt="prasad9307" /></a> </p>
