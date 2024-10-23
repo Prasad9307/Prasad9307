@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasad Pawar</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
-//<img align="Center" alt="Coding" width="4500" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 <h1 align="center"><img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="100%"></img></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasad9307&label=Profile%20views&color=0e75b6&style=flat" alt="prasad9307" /> </p>
