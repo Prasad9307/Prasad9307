@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasad9307" alt="prasad9307" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/p" target="blank"><img src="https://img.shields.io/twitter/follow/p?logo=twitter&style=for-the-badge" alt="p" /></a> </p>
+<p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/p?logo=twitter&style=for-the-badge" alt="p" /></a> </p>
 
 - 🔭 I’m currently working on **Empowering Farmers through a Farm Equipment Rental Platform**
 
