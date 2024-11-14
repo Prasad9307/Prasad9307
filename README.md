@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Java, Javascript, Wordpress, Flutter etc.**
 
-- 📫 How to reach me **prasadpawar9307@gmail.com**
+- 📫 How to reach me **Linkdin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
