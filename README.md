@@ -34,4 +34,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasad9307&show_icons=true&locale=en" alt="prasad9307" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasad9307&" alt="prasad9307" /></p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Prasad9307&theme=dark&date_format=M%20j%5B%2C%20Y%5D&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 -->
