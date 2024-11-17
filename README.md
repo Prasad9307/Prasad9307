@@ -1,6 +1,6 @@
 <h1 align="center">
     <h1 align="center">
-    <img src="https://images.app.goo.gl/SV97Ns97a6atmbfKA" alt="Description of the image">
+    <img src="https://images.app.goo.gl/SV97Ns97a6atmbfKA">
 </h1>
 
 
