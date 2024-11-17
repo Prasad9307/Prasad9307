@@ -1,6 +1,8 @@
 <h1 align="center">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FErrorxCode&psig=AOvVaw2eUn71VIjyZt2HplBeyCSz&ust=1731946649677000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPC79Jni44kDFQAAAAAdAAAAABAJ">
+    <h1 align="center">
+    <img src="https://images.app.goo.gl/SV97Ns97a6atmbfKA" alt="Description of the image">
 </h1>
+
 
 <h1 align="center">Hi 👋, I'm Prasad Pawar</h1
 
