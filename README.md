@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasad Pawar</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
-<h1 align="center"><img src="[https://images.app.goo.gl/G3BBoxr1kxPv9BRh7]" width="100%"></img></h1>
 
 # 💫 About Me:
 🔭Studied Information Technology Engineer at the Savitribai Phule Pune University, Pune<br>🌱 I’m currently learning Java, Python,  Machine Learning, Github etc.<br>💬 Ask me about Java & Web Developer.
