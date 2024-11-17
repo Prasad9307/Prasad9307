@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prasad Pawar</h1
-<h3 align="center">Full-Stack Web Developer</h3>
-(https://www.google.com/imgres?q=animation%20github&imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F74038190%2F212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif&imgrefurl=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&docid=hqmA8T4OFW0sOM&tbnid=qRqPGQGzz-jpWM&vet=12ahUKEwiVp7ny4OOJAxWmZfUHHYWCOmIQM3oECGgQAA..i&w=896&h=896&hcb=2&ved=2ahUKEwiVp7ny4OOJAxWmZfUHHYWCOmIQM3oECGgQAA)
+<h2 align="center">Full-Stack Web Developer</h2>
+
 
 
 # 💫 About Me:
