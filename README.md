@@ -1,7 +1,8 @@
+<h1 align="center">
+    <img src="https://github.com/thedudeontitan/thedudeontitan/blob/master/assets/HELLO.png">
+</h1>
+
 <h1 align="center">Hi 👋, I'm Prasad Pawar</h1
-<h2 align="center">Full-Stack Web Developer</h2>
-
-
 
 # 💫 About Me:
 🔭Studied Information Technology Engineer at the Savitribai Phule Pune University, Pune<br>🌱 I’m currently learning Java, Python,  Machine Learning, Github etc.<br>💬 Ask me about Java & Web Developer.
