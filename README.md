@@ -7,7 +7,33 @@
 <h1 align="center">Hi 👋, I'm Prasad Pawar</h1
 
 # 💫 About Me:
-🔭Studied Information Technology Engineer at the Savitribai Phule Pune University, Pune<br>🌱 I’m currently learning Java, Python,  Machine Learning, Github etc.<br>💬 Ask me about Java & Web Developer.
+I'm Prasad Bhaskar Pawar, a passionate IT enthusiast currently pursuing my Bachelor of Engineering in Information Technology at NBN Sinhgad Technical Institute, Pune. With a strong CGPA of 8.28, I specialize in full-stack development, cloud computing, and data-driven solutions. My learning journey is guided by a love for solving real-world problems through technology and innovation.
+
+🌱 Key Projects & Achievements
+
+File Sharing Management System: Developed using Java, HTML/CSS, MySQL, and integrated with Google & GitHub APIs for seamless file management.
+
+Kisan Setu: A Java-based web platform designed to help farmers rent farming equipment easily, featuring Twilio SMS alerts and user authentication.
+
+Bank Transaction Forecasting Model: Built a SARIMA model in Python to forecast banking transactions, mentored by an expert from EXL.
+
+💡 Tech Skills
+
+Languages: Java, Python, SQL, HTML, CSS
+
+Tools: VS Code, GitHub, IntelliJ IDEA, Figma
+
+Platforms: Microsoft Azure, WordPress, Power BI
+
+🏆 Recognitions
+
+Student of the Year 2025 - IT Department
+
+AIR 59 in NCAT (Naukri Campus Aptitude Test)
+
+Led social media initiatives in NSS and organized TECHTONIC, a tech event.
+
+📢 I'm always looking for ways to connect with like-minded individuals and explore new opportunities. Feel free to reach out for collaborations or tech discussions!
 
 
 ## 🌐 Socials:
